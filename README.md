@@ -22,10 +22,10 @@ Project created by <a href="https://github.com/nidhin-dz">ameer-kallumthodi</a> 
   <a href="httsp://github.com/nidhin-dz/pikachu">
     <img src="https://img.shields.io/github/repo-size/nidhindz/pikachu?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/dz-dz/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/dz-dz/followers"><img title="Followers" src="https://img.shields.io/github/followers/nidhin-dz?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/nidhin-dz/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/nidhin-dz/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nidhin-dz/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -41,7 +41,7 @@ Project created by <a href="https://github.com/nidhin-dz">ameer-kallumthodi</a> 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 -->
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=nightowl" alt="ameer-kallumthodi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=nightowl" alt="nidhin-dz" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=nightowl" alt="ameer-kallumthodi" /></p>
 </details> </div>
