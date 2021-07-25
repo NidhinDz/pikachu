@@ -49,9 +49,9 @@ Project created by <a href="https://github.com/nidhin-dz">ameer-kallumthodi</a> 
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/ameer-kallumthodi?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/nidhin-dz?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=wabot-aq)](https://github.com/ameer-kallumthodi/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=nidhin-dz&repo=wabot-aq)](https://github.com/nidhin-dz/wabot-aq)
 
 </div>
 
@@ -70,7 +70,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nidhin-dz/pikachu.git)
      </div>
 <br>
 <br >
@@ -85,7 +85,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/nidhin-dz/pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
