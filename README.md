@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/nidhin-dz">nidhin-dz</a> to make 
 
   <p align="center">
   <a href="httsp://github.com/nidhin-dz/riyamol">
-    <img src="https://img.shields.io/github/repo-size/nidhindz/pikachu?color=%f7df1e&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/nidhindz/riyamol?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/dz-dz/followers"><img title="Followers" src="https://img.shields.io/github/followers/nidhin-dz?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/nidhin-dz/riyamol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
@@ -70,7 +70,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nidhin-dz/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nidhin-dz/riyamol.git)
      </div>
 <br>
 <br >
@@ -86,7 +86,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/nidhin-dz/pikachu
-$ cd pikachu
+$ cd riyamol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -95,8 +95,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/nidhin-dz/pikachu
-$ cd pikachu
+$ git clone https://github.com/nidhin-dz/riyamol
+$ cd riyamol
 $ chmod +x *
 $ npm i
 $ node qr.js
