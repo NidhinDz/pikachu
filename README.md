@@ -5,11 +5,11 @@
 <a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nidhin-dz"><img title="Author" src="https://img.shields.io/badge/Author-nidhin-dz/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nidhin-dz"><img title="Author" src="https://img.shields.io/badge/Author-nidhin-dz/riyamol?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nidhin-dz">ameer-kallumthodi</a> to make it public
+Project created by <a href="https://github.com/nidhin-dz">nidhin-dz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,11 +19,11 @@ Project created by <a href="https://github.com/nidhin-dz">ameer-kallumthodi</a> 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nidhin-dz/pikachu">
+  <a href="httsp://github.com/nidhin-dz/riyamol">
     <img src="https://img.shields.io/github/repo-size/nidhindz/pikachu?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/dz-dz/followers"><img title="Followers" src="https://img.shields.io/github/followers/nidhin-dz?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/nidhin-dz/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/nidhin-dz/riyamol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/nidhin-dz/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nidhin-dz/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
