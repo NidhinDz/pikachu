@@ -24,8 +24,8 @@ Project created by <a href="https://github.com/nidhin-dz">nidhin-dz</a> to make 
 <p align="center">
 <a href="https://github.com/dz-dz/followers"><img title="Followers" src="https://img.shields.io/github/followers/nidhin-dz?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/nidhin-dz/riyamol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/nidhin-dz/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nidhin-dz/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nidhin-dz/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/nidhin-dz/riyamol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nidhin-dz/riyamol?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nidhin-dz/riyamol?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
