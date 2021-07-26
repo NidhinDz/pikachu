@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="Pikachu-407x400.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Riya Mol" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/nidhin-dz"><img title="Author" src="https://img.shields.io/badge/Author-nidhin-dz/riyamol?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
